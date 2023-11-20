@@ -192,6 +192,7 @@
     background: #FFF;
     overflow: hidden;
     margin-top: 10px;
+    /* text-align: center; */
 }
 .ab
 {
@@ -297,6 +298,7 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
     margin-top: 20px;
+    gap: 10px;
 }
 .headerFooter p
 {

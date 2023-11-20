@@ -1,0 +1,486 @@
+@media screen and (max-width:1300px) {
+    .navbar ul
+    {
+        margin-left: 500px;
+        margin-top: -28px;
+    }
+}
+
+@media screen and (max-width:1245px) {
+    .a
+    {
+        margin-left: 700px;
+        margin-top: -400px;
+    }
+    .bodyCard
+    {
+        margin-top: 100px;
+        margin-left: 100px;
+    }
+    .body1Img
+    {
+        margin-top: 100px;
+        margin-left: 100px;
+    }
+    .body1Card
+    {
+        max-width: 420px;
+        width: 100%;
+        /* height: 290px; */
+        /* background-color: blue; */
+        margin-left: 600px;
+        margin-top: -530px;
+    }
+    .darkImg1
+    {
+        margin-left: 380px;
+        margin-top: 31px;
+    }
+    .line
+    {
+        margin-left: 280px;
+        margin-top: -258px;
+    }
+    .footerHeader img
+    {
+        margin-left: 450px;
+        margin-top: 25px;
+    }
+    .faqText1
+    {
+        margin-top: 40px;
+        margin-left: 10px;
+    }
+    .faqText2
+    {
+        margin-left: 10px;
+    }
+    .faqText3
+    {
+        margin-left: 10px;
+    }
+    .faqText4
+    {
+        margin-left: 10px;
+    }
+    .faqText5
+    {
+        margin-left: 10px;
+    }
+    .faqText6
+    {
+        margin-left: 10px;
+    }
+    .faqText7
+    {
+        margin-left: 600px;
+    }
+    .faqText8
+    {
+        margin-left: 600px;
+    }
+    .faqText9
+    {
+        margin-left: 600px;
+        margin-top: 55px;
+    }
+    .faqText10
+    {
+        margin-left: 600px;
+        margin-top: 1px;
+    }
+}
+
+@media screen and (max-width:1150px) {
+    .headerText1
+    {
+        margin-left: 60px;
+        margin-top: 25px;
+    }
+    .navbar ul
+    {
+        margin-left: 330px;
+    }
+    .headerBody1
+    {
+        margin-top: 100px;
+        margin-left: 120px;
+    }
+    .a
+    {
+        margin-left: 580px;
+        margin-top: -400px;
+    }
+    .phone1
+    {
+        margin-left: 500px;
+        margin-top: -370px;
+    }
+    .body1Img
+    {
+        margin-top: 100px;
+    }
+    .body1Card
+    {
+        margin-left: 500px;
+        margin-top: -467px;
+    }
+    .darkImg1
+    {
+        margin-left: 280px;
+        margin-top: 31px;
+    }
+    .line
+    {
+        margin-left: 180px;
+        margin-top: -258px;
+    }
+    .faqText1
+    {
+        margin-top: 40px;
+        margin-left: 80px;
+    }
+    .faqText2
+    {
+        margin-left: 80px;
+    }
+    .faqText3
+    {
+        margin-left: 80px;
+    }
+    .faqText4
+    {
+        margin-left: 80px;
+    }
+    .faqText5
+    {
+        margin-left: 80px;
+    }
+    .faqText6
+    {
+        margin-left: 80px;
+    }
+    .faqText7
+    {
+        margin-left: 80px;
+        margin-top: 50px;
+    }
+    .faqText8
+    {
+        margin-left: 80px;
+    }
+    .faqText9
+    {
+        margin-left: 80px;
+        margin-top: 35px;
+    }
+    .faqText10
+    {
+        margin-left: 80px;
+        margin-top: 1px;
+    }
+}
+
+@media screen and (max-width:1136px) {
+    .contentsBox
+    {
+        margin-top: 20px;
+    }
+    .cardsBox
+    {
+        margin-top: 20px;
+    }   
+}
+
+@media screen and (max-width:958px) {
+    .headerText1
+    {
+        margin-left: 40px;
+    }
+    .navbar ul
+    {
+        margin-top: 20px;
+        margin-left: -5px;
+    }
+    .navbar ul li a
+    {
+        margin-left: 45px;
+    }
+    .headerBody1
+    {
+        margin-left: 60px;
+        margin-top: 70px;
+    }
+    .a
+    {
+        margin-left: 500px;
+        margin-top: -400px;
+    }
+    .headerFooter h1
+    {
+        text-align: center;
+        font-family: Poppins;
+        font-size: 75px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 96px; /* 100% */
+        margin-top: 80px;
+        margin-left: 100px;
+    }
+    .bodyCard
+    {
+        max-width: 420px;
+        width: 100%;
+        height: 290px;
+        flex-shrink: 0;
+        background-color: white;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .phone1
+    {
+        margin-left: 450px;
+        margin-top: -300px;
+    }
+    .body1Img
+    {
+        margin-top: 50px;
+        margin-left: 30px;
+    }
+    .body1Card
+    {
+        margin-left: 380px;
+        margin-top: -467px;
+    }
+    .darkImg1
+    {
+        margin-left: 200px;
+        margin-top: 31px;
+    }
+    .line
+    {
+        margin-left: 100px;
+        margin-top: -258px;
+    }
+    .footerHeader img
+    {
+        margin-left: 300px;
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width:868px) {
+    .headerBody1
+    {
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+    .a
+    {
+        margin-left: 430px;
+        margin-top: -300px;
+    }
+    .bodyCard
+    {
+        margin-left: 15px;
+        margin-top: 70px;
+    }
+    .phone1
+    {
+        margin-left: 430px;
+        margin-top: -290px;
+    }
+    .body1Img
+    {
+        margin-top: 100px;
+        margin-left: 10px;
+    }
+    .body1Card
+    {
+        margin-left: 330px;
+        margin-top: -500px;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .a
+    {
+        margin-left: 60px;
+        margin-top: 50px;
+    }
+    .headerBody1
+    {
+        margin-left: 70px;
+    }
+    .body1Text2
+    {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .body1Text3
+    {
+        margin-top: 5px;
+    }
+    .headerFooter h1
+    {
+        font-size: 50px;
+        margin-top: 10px;
+        margin-left: 40px;
+    }
+    .text2
+    {
+        margin-top: 5px;
+    }
+    .headerFooter
+    {
+        padding: 0 0 40px 0;
+    }
+    .bodyCard
+    {
+        max-width: 420px;
+        width: 100%;
+        /* height: 290px; */
+        flex-shrink: 0;
+        margin-left: 70px;
+    }
+    .phone1
+    {
+        margin-left: -10px;
+        margin-top: 50px;
+    }
+    .body
+    {
+        padding: 0 0 450px 0;
+    }
+    .body1Img
+    {
+        margin-top: 60px;
+        margin-left: 50px;
+    }
+    .body1Card
+    {
+        margin-left: -20px;
+        margin-top: 80px;
+    }
+    .body1
+    {
+        padding: 0 0 70px 0;
+    }
+    .darkImg1
+    {
+        margin-left: 140px;
+        margin-top: 31px;
+    }
+    .line
+    {
+        margin-left: 40px;
+        margin-top: -258px;
+    }
+    .footerHeader img
+    {
+        margin-left: 220px;
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width:675px) {
+    .headerBtn1
+    {
+        margin-top: 40px;
+        margin-left: -440px;
+    }    
+}
+
+@media screen and (max-width:635px) {
+    .faqText1
+    {
+        margin-top: 40px;
+        margin-left: 10px;
+    }
+    .faqText2
+    {
+        margin-left: 10px;
+    }
+    .faqText3
+    {
+        margin-left: 10px;
+    }
+    .faqText4
+    {
+        margin-left: 10px;
+    }
+    .faqText5
+    {
+        margin-left: 10px;
+    }
+    .faqText6
+    {
+        margin-left: 10px;
+    }
+    .faqText7
+    {
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+    .faqText8
+    {
+        margin-left: 10px;
+    }
+    .faqText9
+    {
+        margin-left: 10px;
+        margin-top: 35px;
+    }
+    .faqText10
+    {
+        margin-left: 10px;
+        margin-top: 1px;
+    }
+    .footerHeader img
+    {
+        margin-left: 130px;
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .darkImg1
+    {
+        margin-left: 50px;
+    } 
+    .line
+    {
+        display: none;
+    }
+    .bodyDark
+    {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .navbar
+    {
+        display: none;
+    }
+    .headerBtn1
+    {
+        display: none;
+    }
+    .btn12
+    {
+        display: block;
+    }
+    .navbar1 ul
+    {
+        display: block;
+    }
+    .header
+    {
+        max-width: 1440px;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        box-shadow: 0 0 8px gray;
+    }
+}

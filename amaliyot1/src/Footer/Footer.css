@@ -1,0 +1,241 @@
+.footerHeader
+{
+    max-width: 1440px;
+    width: 100%;
+    /* height: 449px; */
+    overflow: hidden;
+    padding:  0 0 137px 0;
+}
+.footerDownload
+{
+    color: #222;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+.footerText10
+{
+    color: #222;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 112.5% */
+    margin-top: 5px;
+}
+.footerText11
+{
+    max-width: 589px;
+    width: 100%;
+    color: #666;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 133.333% */
+    margin: auto;
+    margin-top: 14px;
+}
+.footerHeader img
+{
+    margin-left: 630px;
+    margin-top: 25px;
+}
+.footerHeader a
+{
+    text-decoration: none;
+    display: block;
+    width: 180px;
+}
+.footerFaq
+{
+    max-width: 1440px;
+    width: 100%;
+    height: auto;
+    background: #E5E5E5;
+    overflow: hidden;
+    padding: 0 0 102px 0;
+}
+.faqText1
+{
+    color: #222;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 112.5% */
+    margin-top: 105px;
+    margin-left: 136px;
+}
+.faqText2
+{
+    color: #222;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 133.333% */
+    margin-left: 136px;
+    margin-top: 5px;
+}
+.faqText3
+{
+    color: #222;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    margin-top: 42px;
+    margin-left: 136px;
+}
+.faqText4
+{
+    max-width: 576px;
+    width: 100%;
+    color: #222;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-left: 136px;
+    margin-top: 18px;
+}
+.faqText5
+{
+    color: #222;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    margin-left: 136px;
+    margin-top: 50px;
+}
+.faqText6
+{
+    max-width: 546px;
+    width: 100%;
+    margin-left: 136px;
+    color: #222;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-top: 18px;
+}
+.faqText7
+{
+    color: #222;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    margin-left: 728px;
+    margin-top: -335px;
+}
+.faqText8
+{
+    max-width: 572px;
+    width: 100%;
+    margin-left: 728px;
+    margin-top: 18px;
+    color: #222;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+}
+.faqText9
+{
+    color: #222;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    margin-left: 728px;
+    margin-top: 28px;
+}
+.faqText10
+{
+    max-width: 558px;
+    width: 100%;
+    color: #222;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-left: 728px;
+    margin-top: 18px;
+}
+.footerFooter
+{
+    max-width: 1440px;
+    width: 100%;
+    /* height: 427px; */
+    background: #F2F2F2;
+    overflow: hidden;
+    padding: 0 0 100px 0;
+}
+.happyImg
+{
+    max-width: 120px;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+}
+.happyText
+{
+    font-family: Poppins;
+    text-align: center;
+    margin-top: 5px;
+}
+.iconca
+{
+    width: 220px;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 27px;
+}
+.iconca i 
+{
+    color: black;
+}
+.lastText
+{
+    color: #B1B1B1;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-top: 25px;
+}
+span
+{
+    color: #666;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+}

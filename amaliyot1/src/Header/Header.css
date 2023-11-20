@@ -1,0 +1,343 @@
+.header
+{
+    max-width: 1440px;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding-bottom: 25px;
+    box-shadow: 0 0 8px gray;
+}
+.headerText1
+{
+    font-family: sans-serif;
+    margin-left: 152px;
+    margin-top: 25px;
+}
+.navbar ul
+{
+    list-style: none;
+    margin-left: 673px;
+    margin-top: -28px;
+}
+.navbar ul li
+{
+    float: left;
+}
+@font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins/Poppins-Medium.ttf);
+}
+.navbar ul li a
+{
+    color: #666;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 160% */
+    text-decoration: none;
+    margin-left: 32px;
+}
+.headerBtn1
+{
+    width: 172px;
+    height: 40px;
+    border-radius: 4px;
+    background: #222;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; /* 128.571% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-left: 26px;
+    margin-top: -10px;
+    outline: none;
+}
+.headerBody1
+{
+    max-width: 420px;
+    width: 100%;
+    height: auto;
+    /* background-color: gray; */
+    margin-top: 145px;
+    margin-left: 214px;
+    overflow: hidden;
+}
+.body1Text1
+{
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+.body1Text2
+{
+    color: #222;
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 59.4px; /* 110% */
+    margin-top: 11px;
+}
+.body1Text3
+{
+    color: #222;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-top: 18px;
+}
+.body1Btn1
+{
+    width: 148px;
+    height: 40px;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; /* 128.571% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background: #222;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.body1Btn2
+{
+    width: 145px;
+    height: 40px;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; /* 128.571% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background: #222;
+    margin-left: 10px;
+}
+.a
+{
+    overflow: hidden;
+    max-width: 376px;
+    width: 100%;
+    height: 548px;
+    margin-left: 828px;
+    margin-top: -400px;
+}
+.phone
+{
+    max-width: 1440px;
+    width: 100%;
+    height: auto;
+    background: #222;
+    overflow: hidden;
+    padding: 0 0 106px 0;
+}
+.phoneText1
+{
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+.phoneText2
+{
+    max-width: 495px;
+    width: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 112.5% */
+    /* margin-left: 473px; */
+    margin: auto;
+}
+.cards
+{
+    max-width: 1168px;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.box
+{
+    max-width: 379px;
+    width: 100%;
+    height: 490px;
+    border-radius: 20px;
+    background: #FFF;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.ab
+{
+    margin-top: 40px;
+    margin-left: 76px;
+    overflow: hidden;
+}
+.cont
+{
+    width: 379px;
+    height: 197px;
+    border-radius: 0px 0px 20px 20px;
+    background: #F2F2F2;
+    box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.20);
+    margin-top: -197px;
+    position: relative;
+    z-index: 1;
+}
+.cont img
+{
+    margin-left: 157px;
+    margin-top: -32px;
+}
+.cont h1
+{
+    /* color: #0278ED; */
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 125% */
+    margin-top: 15px;
+}
+.h11
+{
+    color: #0278ED;
+
+}
+.h12
+{
+    color: #FF5437;
+}
+.h13
+{
+    color: #FF9209;
+}
+.h14
+{
+    color: #E738CE;
+}
+.h15
+{
+    color: #00C6DF;
+}
+.h16
+{
+    color: #B25DF8;
+}
+.cont p
+{
+    width: 290px;
+    color: #222;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22.4px; /* 149.333% */
+    margin: auto;
+    margin-top: 10px;
+}
+.headerFooter
+{
+    max-width: 1440px;
+    width: 100%;
+    /* height: 316px; */
+    background: #FF5437;
+    overflow: hidden;
+    padding: 0 0 100px 0;
+}
+.text1
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.headerFooter h1
+{
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 96px; /* 100% */
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.text2
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.headerFooter p
+{
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.btn12
+{
+    margin-left: 400px;
+    margin-top: -35px;
+    display: none;
+}
+.btn12:focus ~ .navbar1 ul
+{
+    transform: translate(0);
+}
+.navbar1 ul
+{
+    list-style: none;
+    transform: translate(-101%);
+    transition: 1.2s;
+    margin-top: 20px;
+    display: none;
+}
+.navbar1 ul li a
+{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    /* display: block; */
+    height: 50px;
+    display: block;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding: 0 0 0 10px;
+    line-height: 50px;
+}
